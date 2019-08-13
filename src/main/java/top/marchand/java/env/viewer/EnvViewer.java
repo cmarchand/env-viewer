@@ -9,8 +9,10 @@ package top.marchand.java.env.viewer;
  * all java System properties, and all
  * environmenet entries.
  * 
- * Java System properties are prefixed by {@code ssp.}
- * Environmenet entries are prefixed by {@code env.}
+ * <ul>
+ * <li>Java System properties are prefixed by {@code ssp.}</li>
+ * <li>Environmenet entries are prefixed by {@code env.}</li>
+ * </ul>
  * 
  * Hence, it's easy to filter / sort output
  * @author cmarchand
